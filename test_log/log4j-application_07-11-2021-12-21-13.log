@@ -1,0 +1,10 @@
+2021-11-07 12:21:29,638  INFO [main] BaseClass:20 - DriverSet
+ 2021-11-07 12:21:29,709  INFO [main] BaseClass:20 - Did not navigate to the expected page
+ 2021-11-07 12:21:38,408  INFO [main] BaseClass:20 - The title matched
+ 2021-11-07 12:21:38,409  INFO [main] BaseClass:20 - Succesfull
+ 2021-11-07 12:21:41,424  INFO [main] BaseClass:20 - Clicked on Sign -In
+ 2021-11-07 12:22:19,845  INFO [main] BaseClass:20 - Crendentials Entered Sucessfully
+ 2021-11-07 12:22:19,961  INFO [main] BaseClass:20 - Logged In Sucessfully
+ 2021-11-07 12:22:20,024  INFO [main] BaseClass:20 - Search Bar Clicked
+ 2021-11-07 12:22:34,034  INFO [main] BaseClass:20 - Item Entered
+ 

@@ -1,0 +1,5 @@
+2021-11-07 10:57:17,972  INFO [main] BaseClass:20 - DriverSet
+ 2021-11-07 10:57:17,994  INFO [main] BaseClass:20 - Did not navigate to the expected page
+ 2021-11-07 10:57:25,244  INFO [main] BaseClass:20 - The title matched
+ 2021-11-07 10:57:25,245  INFO [main] BaseClass:20 - Succesfull
+ 
